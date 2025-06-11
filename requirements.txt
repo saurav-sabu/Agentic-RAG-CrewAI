@@ -1,0 +1,14 @@
+crewai
+crewai-tools
+streamlit
+tools
+requests
+pydantic
+python-dotenv
+pymupdf4llm
+langchain-community
+langchain-core
+faiss-cpu
+langchain-google-genai
+
+
